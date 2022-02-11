@@ -9,7 +9,7 @@ Today we are going to focus on the topic _DevOps_. Therefore we take a closer lo
 - GitHub repositories
 - GitHub Actions workflows
 - Azure Bicep
-- Azure Application Insights
+- Azure Application Insights!!!
 
 ## Challenges
 
