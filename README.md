@@ -5,7 +5,7 @@
 ![ADC](./images/azdc.png)
 
   <p>
-    <sub>Built with ❤️ by the
+    <sub>Built with ❤️ by the1
       <a href="https://github.com/CSA-OCP-GER">Microsoft Cloud Solution Architects from Germany</a>
     </sub>
   </p>
